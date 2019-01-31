@@ -4,6 +4,9 @@
 https://blog.csdn.net/qq_15192373/article/details/78355612
 #### keras损失函数可选
 https://keras.io/zh/losses/
+####决策树算法
+https://www.cnblogs.com/csyuan/p/6535366.html
+https://blog.csdn.net/gumpeng/article/details/51397737
 #### 参考链接
 https://github.com/keras-team/keras/tree/master/examples
 https://github.com/aymericdamien/TensorFlow-Examples
